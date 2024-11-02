@@ -14,7 +14,9 @@
   </a>
 </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vo0ov&layout=compact&theme=vision-friendly-dark"/></p>
-<p align="center"><img src="https://myreadme.vercel.app/api/embed/vo0ov?panels=userstatistics,toplanguages,commitgraph,toprepositories"/></p>
+
+### Просмотры профиля:
+<img src="https://profile-counter.glitch.me/vo0ov/count.svg" alt="vo0ov :: Visitor's Count" />
 
 ### Связь со мной:
 - [Discord](https://discordapp.com/users/803934236499378208/)
